@@ -5,11 +5,5 @@
             "type": 0,
             "url": "https://raw.gitmirror.com/Zhangjinhui-baoji/TV/main/CHANNEL_URL/IPV4",
             "playerType": 2
-        },
-        {
-            "name": "IPV6",
-            "type": 0,
-            "url": "https://raw.gitmirror.com/Zhangjinhui-baoji/TV/main/CHANNEL_URL/IPV6",
-            "playerType": 2
         }
             ]
