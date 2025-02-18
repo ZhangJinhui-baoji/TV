@@ -33,4 +33,6 @@
 {"key":"csp_xlys","name":"修罗┃直连","type":3,"api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuc3ViYWliYWl5cy5jb20="},
 {"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 {"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"6666666666666666"}]}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"6666666666666666"}],
+
+"parses":[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json轮询","type":2,"url":"Sequence"},{"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},{"name":"巧技二","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}]}
